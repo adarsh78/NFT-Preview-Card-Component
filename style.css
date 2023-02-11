@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 16px;
+}
+
+body{
+    background: hsl(217, 54%, 11%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+main{
+    background: hsl(216, 50%, 16%);
+    width: 21rem;
+    border-radius: 1rem;
+}
+
+main:hover{
+    box-shadow: 1rem 1rem 2rem 2rem hsl(216, 50%, 16%);
+}
+
+.image{
+    background: url(images/image-equilibrium.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 18rem;
+    height: 18rem;
+    margin: 1.5rem;
+    border-radius: 0.5rem;
+}
+
+.content{
+    padding: 1.5rem;
+    margin-top: -1.5rem;
+}
+
+h1 , p{
+    font-family: 'Outfit', sans-serif; 
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+.desc{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.eth, .clock{
+    display: flex;
+}
+
+.eth p{
+    color: hsl(178, 100%, 50%);
+    margin: 0 0 0 0.3rem;
+    font-weight: 800;
+}
+
+.clock p{
+    color: hsl(215, 51%, 70%);
+    margin: 0 0 0 0.3rem;
+}
+
+.about{
+    border-top: 1px solid hsl(215, 32%, 27%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+.about img{
+    width: 40px;
+    border : 1px solid hsl(0, 0%, 100%);
+    border-radius: 50%;
+}
+
+.about p{
+    margin-left: 1rem;
+    color:  hsl(215, 51%, 70%);
+}
+
+span{
+    color: hsl(0, 0%, 100%);
+}
+
+.footer{
+    color: hsl(215, 51%, 70%);
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    font-family: 'Outfit', sans-serif; 
+}
+
+.footer a{
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
