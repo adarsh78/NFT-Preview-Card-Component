@@ -25,9 +25,6 @@ main{
     border-radius: 1rem;
 }
 
-main:hover{
-    box-shadow: 1rem 1rem 2rem 2rem hsl(216, 50%, 16%);
-}
 
 .image{
     background: url(images/image-equilibrium.jpg);
@@ -38,6 +35,11 @@ main:hover{
     margin: 1.5rem;
     border-radius: 0.5rem;
 }
+
+/* .image:hover{
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
+} */
 
 .content{
     padding: 1.5rem;
@@ -52,6 +54,11 @@ h1{
     color: hsl(0, 0%, 100%);
     font-size: 1.3rem;
     margin-bottom: 1rem;
+}
+
+h1:hover{
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
 }
 
 .desc{
@@ -96,6 +103,11 @@ h1{
 
 span{
     color: hsl(0, 0%, 100%);
+}
+
+span:hover{
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
 }
 
 .footer{
