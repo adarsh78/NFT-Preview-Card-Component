@@ -34,7 +34,7 @@ Mobile:
 
 ### Links
 
-- Live Site URL: https://adarsh78.github.io/NFT-Preview-Card-Component/
+- Live Site URL: 
 
 ## My process
 
