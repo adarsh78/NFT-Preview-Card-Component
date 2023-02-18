@@ -50,3 +50,4 @@ Mobile:
 
 - Website -https://adarsh78.github.io/NFT-Preview-Card-Component/
 - Frontend Mentor - https://www.frontendmentor.io/profile/adarsh78
+- Twitter - [@adarsh_kgupta](https://twitter.com/adarsh_kgupta)
