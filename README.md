@@ -34,7 +34,7 @@ Mobile:
 
 ### Links
 
-- Live Site URL:  https://adarsh78.github.io/NFT-Preview-Card-Component/
+- Live Site URL:  [Live Site](https://adarsh78.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
@@ -48,6 +48,6 @@ Mobile:
 
 ## Author
 
-- Website -https://adarsh78.github.io/NFT-Preview-Card-Component/
-- Frontend Mentor - https://www.frontendmentor.io/profile/adarsh78
+- Frontend Mentor - [@adarsh78](https://www.frontendmentor.io/profile/adarsh78)
 - Twitter - [@adarsh_kgupta](https://twitter.com/adarsh_kgupta)
+- Codepen - [@adarsh78](https://codepen.io/adarsh78)
